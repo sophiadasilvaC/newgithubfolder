@@ -1,0 +1,2 @@
+# newgithubfolder
+my class folder
