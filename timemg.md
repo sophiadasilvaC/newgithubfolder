@@ -1,3 +1,4 @@
+time 
 # Ì≥Ö Daily Time Management Sheet
 **Date:** [YYYY-MM-DD] | **Focus Level:** ‚≠ê‚≠ê‚≠ê‚≠ê‚≠ê
 
